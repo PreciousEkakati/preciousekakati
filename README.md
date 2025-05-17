@@ -1,4 +1,4 @@
-[![MasterHead]((https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg))]
+[![MasterHead](https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg)]
 <h1 align="center">Hi 👋, I'm Precious</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
